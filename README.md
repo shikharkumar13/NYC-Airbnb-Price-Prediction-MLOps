@@ -5,7 +5,7 @@ This project predicts a New York City Airbnb listing's nightly price (USD) from 
 Follow this guide to make this complete project from scratch : https://shikharkumar13.github.io/NYC-Airbnb-Price-Prediction-MLOps/airbnb_mlops_guide.html
 
 Documentation:
-- To build it yourself, follow [`airbnb_mlops_guide.md`](airbnb_mlops_guide.md), a from-scratch tutorial for beginners. It covers every command, file and decision, and explains why each one is there, on macOS (tested) or Windows through WSL2. The same guide is in [`airbnb_mlops_guide.html`](airbnb_mlops_guide.html). Download it and open it in a browser for a chapter map, search and progress tracking.
+- To build this project yourself from scratch, follow https://shikharkumar13.github.io/NYC-Airbnb-Price-Prediction-MLOps/airbnb_mlops_guide.html
 - To see how the project was actually built, read [`implementation.md`](implementation.md), the build log. It records every detour, bug and fix, with real IDs and dates.
 
 ```mermaid
