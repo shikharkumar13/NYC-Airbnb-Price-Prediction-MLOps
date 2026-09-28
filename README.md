@@ -2,8 +2,6 @@
 
 This project predicts a New York City Airbnb listing's nightly price (USD) from its location, room type and booking activity. The model is deliberately modest. The project is really about the deployment flow around it: versioned data, tracked experiments, a model registry, a containerised API, scheduled retraining, CI, and continuous deployment that a new model triggers.
 
-Follow this guide to make this complete project from scratch : https://shikharkumar13.github.io/NYC-Airbnb-Price-Prediction-MLOps/airbnb_mlops_guide.html
-
 Documentation:
 - To build this project yourself from scratch, follow https://shikharkumar13.github.io/NYC-Airbnb-Price-Prediction-MLOps/airbnb_mlops_guide.html
 - To see how the project was actually built, read [`implementation.md`](implementation.md), the build log. It records every detour, bug and fix, with real IDs and dates.
